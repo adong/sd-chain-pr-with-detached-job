@@ -15,4 +15,4 @@ jobs:
             - echo: echo "this is second job."
     detached-job:
         steps:
-            - echo: echo "this is detached job."
+            - echo: echo "this is detached job.   "
